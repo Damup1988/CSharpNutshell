@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jIOvFND+EqGVvsVJgZjlZEcAzOKoXvc7mDsE7hqZLHvnvc2CXiNiyHMFL6N0nerdR5vol0vSkfN2ZLa3qmF7+Q==",
+  "success": true,
+  "projectFilePath": "C:\\_bufer\\!dotNet\\CSharpNutshell\\MetanitFirstApp\\MetanitFirstApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\safarovd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

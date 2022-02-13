@@ -1,0 +1,16 @@
+C:\_bufer\!dotNet\CSharpNutshell\MetanitFirstApp\bin\Debug\net5.0\MetanitFirstApp.exe
+C:\_bufer\!dotNet\CSharpNutshell\MetanitFirstApp\bin\Debug\net5.0\MetanitFirstApp.deps.json
+C:\_bufer\!dotNet\CSharpNutshell\MetanitFirstApp\bin\Debug\net5.0\MetanitFirstApp.runtimeconfig.json
+C:\_bufer\!dotNet\CSharpNutshell\MetanitFirstApp\bin\Debug\net5.0\MetanitFirstApp.runtimeconfig.dev.json
+C:\_bufer\!dotNet\CSharpNutshell\MetanitFirstApp\bin\Debug\net5.0\MetanitFirstApp.dll
+C:\_bufer\!dotNet\CSharpNutshell\MetanitFirstApp\bin\Debug\net5.0\ref\MetanitFirstApp.dll
+C:\_bufer\!dotNet\CSharpNutshell\MetanitFirstApp\bin\Debug\net5.0\MetanitFirstApp.pdb
+C:\_bufer\!dotNet\CSharpNutshell\MetanitFirstApp\obj\Debug\net5.0\MetanitFirstApp.csproj.AssemblyReference.cache
+C:\_bufer\!dotNet\CSharpNutshell\MetanitFirstApp\obj\Debug\net5.0\MetanitFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\_bufer\!dotNet\CSharpNutshell\MetanitFirstApp\obj\Debug\net5.0\MetanitFirstApp.AssemblyInfoInputs.cache
+C:\_bufer\!dotNet\CSharpNutshell\MetanitFirstApp\obj\Debug\net5.0\MetanitFirstApp.AssemblyInfo.cs
+C:\_bufer\!dotNet\CSharpNutshell\MetanitFirstApp\obj\Debug\net5.0\MetanitFirstApp.csproj.CoreCompileInputs.cache
+C:\_bufer\!dotNet\CSharpNutshell\MetanitFirstApp\obj\Debug\net5.0\MetanitFirstApp.dll
+C:\_bufer\!dotNet\CSharpNutshell\MetanitFirstApp\obj\Debug\net5.0\ref\MetanitFirstApp.dll
+C:\_bufer\!dotNet\CSharpNutshell\MetanitFirstApp\obj\Debug\net5.0\MetanitFirstApp.pdb
+C:\_bufer\!dotNet\CSharpNutshell\MetanitFirstApp\obj\Debug\net5.0\MetanitFirstApp.genruntimeconfig.cache
