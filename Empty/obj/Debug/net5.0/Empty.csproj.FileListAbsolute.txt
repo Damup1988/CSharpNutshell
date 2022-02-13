@@ -1,0 +1,16 @@
+C:\_bufer\!dotNet\CSharpNutshell\Empty\bin\Debug\net5.0\Empty.exe
+C:\_bufer\!dotNet\CSharpNutshell\Empty\bin\Debug\net5.0\Empty.deps.json
+C:\_bufer\!dotNet\CSharpNutshell\Empty\bin\Debug\net5.0\Empty.runtimeconfig.json
+C:\_bufer\!dotNet\CSharpNutshell\Empty\bin\Debug\net5.0\Empty.runtimeconfig.dev.json
+C:\_bufer\!dotNet\CSharpNutshell\Empty\bin\Debug\net5.0\Empty.dll
+C:\_bufer\!dotNet\CSharpNutshell\Empty\bin\Debug\net5.0\ref\Empty.dll
+C:\_bufer\!dotNet\CSharpNutshell\Empty\bin\Debug\net5.0\Empty.pdb
+C:\_bufer\!dotNet\CSharpNutshell\Empty\obj\Debug\net5.0\Empty.csprojAssemblyReference.cache
+C:\_bufer\!dotNet\CSharpNutshell\Empty\obj\Debug\net5.0\Empty.GeneratedMSBuildEditorConfig.editorconfig
+C:\_bufer\!dotNet\CSharpNutshell\Empty\obj\Debug\net5.0\Empty.AssemblyInfoInputs.cache
+C:\_bufer\!dotNet\CSharpNutshell\Empty\obj\Debug\net5.0\Empty.AssemblyInfo.cs
+C:\_bufer\!dotNet\CSharpNutshell\Empty\obj\Debug\net5.0\Empty.csproj.CoreCompileInputs.cache
+C:\_bufer\!dotNet\CSharpNutshell\Empty\obj\Debug\net5.0\Empty.dll
+C:\_bufer\!dotNet\CSharpNutshell\Empty\obj\Debug\net5.0\ref\Empty.dll
+C:\_bufer\!dotNet\CSharpNutshell\Empty\obj\Debug\net5.0\Empty.pdb
+C:\_bufer\!dotNet\CSharpNutshell\Empty\obj\Debug\net5.0\Empty.genruntimeconfig.cache
